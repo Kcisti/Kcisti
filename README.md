@@ -11,6 +11,7 @@ I view code as a tool to both **build** robust systems and **break** down comple
 | :--- | :--- | :--- |
 | [**bat-security-toolkit**](https://github.com/Kcisti/bat-security-toolkit) | 🦇 **Network & OSINT** | *Active Development* |
 | [**chess-console-engine**](https://github.com/Kcisti/chess-console-engine) | ♟️ **C & System Logic** | *Sandbox / Learning* |
+| [**vanilla-js-arcade**](https://github.com/Kcisti/vanilla-js-arcade) | 🕹️ **Vanilla JS & Web** | *Release v1.0 / Playable* |
 
 ---
 
